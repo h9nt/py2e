@@ -1,0 +1,5 @@
+C:\Users\vardx\Desktop\py2e\py2e\bin\Debug\net7.0\publish\py2e.exe
+C:\Users\vardx\Desktop\py2e\py2e\bin\Debug\net7.0\publish\py2e.dll
+C:\Users\vardx\Desktop\py2e\py2e\bin\Debug\net7.0\publish\py2e.deps.json
+C:\Users\vardx\Desktop\py2e\py2e\bin\Debug\net7.0\publish\py2e.runtimeconfig.json
+C:\Users\vardx\Desktop\py2e\py2e\bin\Debug\net7.0\publish\py2e.pdb

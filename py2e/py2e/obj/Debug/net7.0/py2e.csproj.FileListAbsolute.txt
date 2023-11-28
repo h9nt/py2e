@@ -1,0 +1,15 @@
+C:\Users\vardx\Desktop\py2e\py2e\bin\Debug\net7.0\py2e.exe
+C:\Users\vardx\Desktop\py2e\py2e\bin\Debug\net7.0\py2e.deps.json
+C:\Users\vardx\Desktop\py2e\py2e\bin\Debug\net7.0\py2e.runtimeconfig.json
+C:\Users\vardx\Desktop\py2e\py2e\bin\Debug\net7.0\py2e.dll
+C:\Users\vardx\Desktop\py2e\py2e\bin\Debug\net7.0\py2e.pdb
+C:\Users\vardx\Desktop\py2e\py2e\obj\Debug\net7.0\py2e.csproj.AssemblyReference.cache
+C:\Users\vardx\Desktop\py2e\py2e\obj\Debug\net7.0\py2e.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vardx\Desktop\py2e\py2e\obj\Debug\net7.0\py2e.AssemblyInfoInputs.cache
+C:\Users\vardx\Desktop\py2e\py2e\obj\Debug\net7.0\py2e.AssemblyInfo.cs
+C:\Users\vardx\Desktop\py2e\py2e\obj\Debug\net7.0\py2e.csproj.CoreCompileInputs.cache
+C:\Users\vardx\Desktop\py2e\py2e\obj\Debug\net7.0\py2e.dll
+C:\Users\vardx\Desktop\py2e\py2e\obj\Debug\net7.0\refint\py2e.dll
+C:\Users\vardx\Desktop\py2e\py2e\obj\Debug\net7.0\py2e.pdb
+C:\Users\vardx\Desktop\py2e\py2e\obj\Debug\net7.0\py2e.genruntimeconfig.cache
+C:\Users\vardx\Desktop\py2e\py2e\obj\Debug\net7.0\ref\py2e.dll
